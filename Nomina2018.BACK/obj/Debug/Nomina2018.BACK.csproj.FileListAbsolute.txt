@@ -1,0 +1,8 @@
+C:\USB\Personal\Proyectos\IMASD\Nomina2018.BACK\bin\Debug\DATABASE\BDNOMINA2018.mdf
+C:\USB\Personal\Proyectos\IMASD\Nomina2018.BACK\bin\Debug\DATABASE\BDNOMINA2018_log.ldf
+C:\USB\Personal\Proyectos\IMASD\Nomina2018.BACK\bin\Debug\Nomina2018.BACK.exe.config
+C:\USB\Personal\Proyectos\IMASD\Nomina2018.BACK\bin\Debug\Nomina2018.BACK.exe
+C:\USB\Personal\Proyectos\IMASD\Nomina2018.BACK\bin\Debug\Nomina2018.BACK.pdb
+C:\USB\Personal\Proyectos\IMASD\Nomina2018.BACK\obj\Debug\Nomina2018.BACK.exe
+C:\USB\Personal\Proyectos\IMASD\Nomina2018.BACK\obj\Debug\Nomina2018.BACK.pdb
+C:\USB\Personal\Proyectos\IMASD\Nomina2018.BACK\obj\Debug\Nomina2018.BACK.csprojResolveAssemblyReference.cache
